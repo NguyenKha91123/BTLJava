@@ -2,7 +2,9 @@
 # **About**
 Đây là một dự án game 2048 đơn giản được viết bằng ngôn ngữ Java
 Người chơi có thể chơi và lưu điểm của mình khi đạt điểm cao
+
 **Công nghệ được sử dụng**
+
 - Java JDK
 - JDBC
 - Cơ sở dữ liệu: MySQL Workbean
