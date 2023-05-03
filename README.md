@@ -4,6 +4,17 @@
 
 Người chơi có thể chơi và lưu điểm của mình khi đạt điểm cao
 
+Để chơi người dùng chỉ cần ấn nút **Code**
+![image](https://user-images.githubusercontent.com/114750314/235927084-8dfa97a3-f401-44a1-b5d4-da73b7bcc5e4.png)
+
+Sau đó ấn **Download ZIP** về và giải nén là oke
+
+Để chạy được game ta cần mở file theo hướng dẫn sau:
+
+```BTLJava-main > BTLJava-main > Test > src > Gam2048 > Main.java``` và **Run**
+
+**Nhưng đến đây vẫn chưa chạy được do SQL chưa được liên kết nên file sẽ lỗi ta sẽ chạy sau khi kết nối CSDL**
+
 **Công nghệ được sử dụng**
 
 - Java JDK
@@ -24,9 +35,11 @@ Password: 123456789 (Tùy máy có thể có một mật khẩu khác nhau do ch
 
 Port: 3333 (Cổng port này em tự tạo, có thể tạo cổng Port nhưng phải cùng cổng với nhau trong Java và Workbean)
 
-*Sau khi tạo xong thì vào file JDBCUtil để sửa phần user, password, port*
+*Sau khi tạo xong thì vào file JDBCUtil.java để sửa phần user, password, port*
 
-Khi chạy rồi ta chưa có cơ sở dữ liệu nên khi ấn vào "Best" sẽ hiện "No Rank"
+theo đường dẫn: ```BTLJava-main > BTLJava-main > Test > src > DataBase > JDBCUtil.java```
+
+Khi chạy rồi ta chưa có dữ liệu trong cơ sở dữ liệu nên khi ấn vào **"Best"** sẽ hiện **"No Rank"**
 
 Giờ ta có thể thêm dữ liệu vào qua đoạn code SQL sau:
 ```
