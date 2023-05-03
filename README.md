@@ -126,11 +126,11 @@ Và cho dù đúng thì vẫn phải mở file để sửa *user, password, port
 
 Thực sự em không thể làm sao mà cho chạy trên CMD mà không cần dùng Eclipse hay VSCode
 
-Chả ai chạy chương trình mà lại chạy qua CMD cục bộ như này ạ :((
+Chả ai chạy chương trình mà lại chạy qua CMD cục bộ như này ạ :((```
 
 ##Hi vọng thầy có cách nào có thể chỉ em được !!
 
-Em cảm ơn```
+Em cảm ơn
 
 **Một số hình ảnh của game**
 
