@@ -122,7 +122,7 @@ Còn nếu chạy các file Main trước thì lại báo lỗi SQL JDBC chưa �
 
 Em chỉ có thể cho chạy trong 1 package thôi
 
-Và cho dù đúng thì vẫn phải mở file để sửa *user, password, port* thì mới kết nối SQL được ạ
+Và cho dù chúng có để chung một package để chạy được thì vẫn phải mở file để sửa *user, password, port* thì mới kết nối SQL được ạ
 
 Thực sự em không thể làm sao mà cho chạy trên CMD mà không cần dùng Eclipse hay VSCode
 
