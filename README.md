@@ -22,6 +22,8 @@ Sau đó ấn **Download ZIP** về và giải nén là oke
 - JDBC
 - Cơ sở dữ liệu: MySQL Workbean
 
+##**Cách 1:**
+
 **Chạy trên Eclipse**
 
 ==========**Sử dụng Cơ sở dữ liệu**==========
@@ -86,5 +88,11 @@ Không chạy được ư ?!
 
 ![image](https://user-images.githubusercontent.com/114750314/235725204-223cadc6-add3-4f50-9c7d-4d68dc9c9a12.png)
 ![image](https://user-images.githubusercontent.com/114750314/235725394-bae3ddfd-49de-4a33-bdfc-e218e970b62f.png)
+
+
+##**Cách 2:**
+
+**Chạy trên CMD**
+
 
 Em xin chân thành cảm ơn !!
