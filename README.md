@@ -5,6 +5,7 @@
 Người chơi có thể chơi và lưu điểm của mình khi đạt điểm cao
 
 Để chơi người dùng chỉ cần ấn nút **Code**
+
 ![image](https://user-images.githubusercontent.com/114750314/235927084-8dfa97a3-f401-44a1-b5d4-da73b7bcc5e4.png)
 
 Sau đó ấn **Download ZIP** về và giải nén là oke
