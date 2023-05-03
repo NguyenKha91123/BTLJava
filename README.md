@@ -84,15 +84,51 @@ Không chạy được ư ?!
 
 ==> Làm lại những điều trên đến khi được thì thôi !!
 
-**Một số hình ảnh của game**
-
-![image](https://user-images.githubusercontent.com/114750314/235725204-223cadc6-add3-4f50-9c7d-4d68dc9c9a12.png)
-![image](https://user-images.githubusercontent.com/114750314/235725394-bae3ddfd-49de-4a33-bdfc-e218e970b62f.png)
-
-
 ##**Cách 2:**
 
 **Chạy trên CMD**
 
+Ta tải file ZIP về giải nén như bình thường sau đó giải nén
+
+Ví dụ: Em để ở ổ C mục Downloads
+
+![image](https://user-images.githubusercontent.com/114750314/235955337-9b23a0b4-2f47-41cb-bb1e-80fcae558ced.png)
+
+Sau đó ta cần truy cập vào thư mục chứa code bằng cách mở CMD với quyền Admin
+
+Gõ đoạn lệnh để vào được ```src```
+
+![image](https://user-images.githubusercontent.com/114750314/235956098-50b14121-c09d-44ef-9fc9-2db62d7bef8a.png)
+
+Sau đó ta cần mở tất cả các file trong ```src``` (Từng package, folder)
+
+![image](https://user-images.githubusercontent.com/114750314/235956642-6e6e6b72-a651-4333-ba95-67482242b406.png)
+
+Cứ tiếp tục như thế
+
+Sau đó ta gõ lệnh: ```java -cp ".;C:\Users\Nguye\Downloads\BTLJava-main\BTLJava-main\Test\src\DataBase\mysql-connector-j-8.0.30.jar" Main```
+
+##
+
+**Để làm được thì em vẫn chưa tìm ra cách
+
+Cách chạy bằng CMD trên chỉ chạy được những file có trong cùng 1 package
+
+Nhưng khi chạy sẽ báo lỗi
+
+Nếu chạy kết nối SQL trước thì báo lỗi file *Main.java* chưa được khai báo
+
+Còn nếu chạy các file Main trước thì lại báo lỗi SQL JDBC chưa được kết nối
+
+Em chỉ có thể cho chạy trong 1 package thôi
+
+##Hi vọng thầy có cách nào có thể chỉ em được !!
+
+Em cảm ơn**
+
+**Một số hình ảnh của game**
+
+![image](https://user-images.githubusercontent.com/114750314/235725204-223cadc6-add3-4f50-9c7d-4d68dc9c9a12.png)
+![image](https://user-images.githubusercontent.com/114750314/235725394-bae3ddfd-49de-4a33-bdfc-e218e970b62f.png)
 
 Em xin chân thành cảm ơn !!
