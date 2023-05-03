@@ -110,7 +110,7 @@ Sau đó ta gõ lệnh: ```java -cp ".;C:\Users\Nguye\Downloads\BTLJava-main\BTL
 
 ##
 
-```Để làm được thì em vẫn chưa tìm ra cách
+**Để làm được thì em vẫn chưa tìm ra cách
 
 Cách chạy bằng CMD trên chỉ chạy được những file có trong cùng 1 package
 
@@ -126,11 +126,11 @@ Và cho dù đúng thì vẫn phải mở file để sửa *user, password, port
 
 Thực sự em không thể làm sao mà cho chạy trên CMD mà không cần dùng Eclipse hay VSCode
 
-Chả ai chạy chương trình mà lại chạy qua CMD cục bộ như này ạ :((```
+Chả ai chạy chương trình mà lại chạy qua CMD cục bộ như này ạ :((
 
 ##Hi vọng thầy có cách nào có thể chỉ em được !!
 
-Em cảm ơn
+Em cảm ơn**
 
 **Một số hình ảnh của game**
 
